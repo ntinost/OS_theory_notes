@@ -1,0 +1,29 @@
+@import url(//fonts.googleapis.com/css?family=GFS+Didot);
+body {
+	font-family: "GFS Didot", sans-serif;
+	word-spacing: 0.1em;
+}
+
+h1, h2, h3 {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.info {
+	font-style: italic;
+	text-align: center;
+}
+
+p {
+	margin-top: 2em;
+	margin-bottom: 2em;
+	margin-left: 5em;
+	margin-right: 5em;
+}
+
+li {
+	margin-left: 5em;
+	margin-right: 5em;
+}
+
+
